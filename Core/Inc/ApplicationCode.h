@@ -7,9 +7,11 @@
 
 #include "LCD_Driver.h"
 #include "stm32f4xx_hal.h"
+#include "game.h"
 
 #include <stdio.h>
 
+// cjamge jer lol
 
 #ifndef INC_APPLICATIONCODE_H_
 #define INC_APPLICATIONCODE_H_
